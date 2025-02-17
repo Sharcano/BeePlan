@@ -1,0 +1,8 @@
+# Derleme klasörleri
+/bin/
+/target/
+# IDE klasörleri
+.classpath
+.project
+.settings/
+# vs.
